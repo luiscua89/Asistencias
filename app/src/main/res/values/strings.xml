@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Asistencias</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_asistencia">AsistenciaActivity</string>
+    <string name="loginurl">http://correomx.raycastudio.com.mx/asistencias/</string>
+    <string name="jsonexito">success</string>
+    <string name="jsonmensaje">message</string>
+</resources>
